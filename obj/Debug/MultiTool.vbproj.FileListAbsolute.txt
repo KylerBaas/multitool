@@ -1,0 +1,16 @@
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.vbprojAssemblyReference.cache
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.Menu.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.Resources.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.vbproj.GenerateResource.cache
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.Calculator.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Debug\MultiTool.exe.config
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Debug\MultiTool.exe
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Debug\MultiTool.pdb
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.exe
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.pdb
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.Converter.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.ConvChoice.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.List.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Debug\MultiTool.DataBase.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Debug\Collection.mdf
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Debug\Collection_log.ldf
