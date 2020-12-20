@@ -1,0 +1,16 @@
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Release\Collection.mdf
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Release\Collection_log.ldf
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Release\MultiTool.exe.config
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Release\MultiTool.exe
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\bin\Release\MultiTool.pdb
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.vbprojAssemblyReference.cache
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.Calculator.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.ConvChoice.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.Converter.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.DataBase.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.Menu.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.Resources.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.List.resources
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.vbproj.GenerateResource.cache
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.exe
+F:\CodingProjects\VisualBasic\MultiTool\MultiTool\obj\Release\MultiTool.pdb
