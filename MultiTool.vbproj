@@ -86,21 +86,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Collection.mdf</DependentUpon>
     </Content>
-    <Content Include="Images\cd.jpg" />
-    <Content Include="Images\dq11.jpg" />
-    <Content Include="Images\Kiss_Land.png" />
-    <Content Include="Images\nike_cortez.jpg" />
-    <Content Include="Images\p5.jpg" />
-    <Content Include="Images\v_os.jpg" />
-    <Content Include="Images\Yakuza0.jpg" />
     <None Include="Resources\none.jpg" />
-    <None Include="Resources\dq11.jpg" />
-    <None Include="Resources\Trilogy.png" />
-    <None Include="Resources\Kiss_Land.png" />
-    <None Include="Resources\cd.jpg" />
-    <None Include="Resources\Yakuza0.jpg" />
-    <None Include="Resources\nike_cortez.jpg" />
-    <None Include="Resources\v_os.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculator.Designer.vb">

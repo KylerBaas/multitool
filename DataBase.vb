@@ -94,7 +94,7 @@ Public Class DataBase
         Dim answer As DialogResult
 
         'Check if an image was added'
-        If image IsNot Nothing Then
+        If image IsNot "" Then
             If System.IO.File.Exists(savePath) Then
                 answer = MessageBox.Show("File " + txtImage.Text + " already exists, do you wish to overwrite " + image, "Delete?", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
                 If answer = vbYes Then
